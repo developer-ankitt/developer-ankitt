@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankit Kushwah</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**KakarotMI007/kakarotmi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarotmi007&label=Profile%20views&color=0e75b6&style=flat" alt="kakarotmi007" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakarotmi007" alt="kakarotmi007" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Bootstrap Project**
+
+- 🌱 I’m currently learning Web Development **HTML, CSS & BOOTSTRAP**
+
+- 💬 Ask me about **HTML, CSS & BOOTSTRAP**
+
+- 📫 How to reach me **ankit.kushwah159918@gmail.com**
+
+- 📄 Know about my experiences [Updated Soon...](Updated Soon...)
+
+- ⚡ Fun fact **✌️❤️Do Things To Get Done❤️✌️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ankitt1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitt1507" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarotmi007&show_icons=true&locale=en&layout=compact" alt="kakarotmi007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakarotmi007&show_icons=true&locale=en" alt="kakarotmi007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakarotmi007&" alt="kakarotmi007" /></p>
