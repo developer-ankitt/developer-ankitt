@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Kushwah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Bootstrap Project**
+- 🔭 I’m currently working on **Simon Project**
 
-- 🌱 I’m currently learning Web Development **HTML, CSS & BOOTSTRAP**
+- 🌱 I’m currently learning Web Development **jQuerry and the Unix Command Line**
 
-- 💬 Ask me about **HTML, CSS & BOOTSTRAP**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **ankit.kushwah159918@gmail.com**
 
