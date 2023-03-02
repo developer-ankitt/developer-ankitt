@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **✌️❤️Do Things To Get Done❤️✌️**
 
-- My Personal Portfolio {https://kakarotmi007.github.io/Personal-Portfolio/}
+- My Personal Portfolio {https://kakarotmi007.github.io/Personal-Portfolio/ }
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
