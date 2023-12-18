@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=developer-ankitt&icon=5&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Vite Project<br>👯 I’m looking to collaborate on React Project<br>🤝 I’m looking for help with developing a React Website<br>🌱 I’m currently learning React + Vite<br>💬 Ask me about Web Development<br>⚡ Fun fact - Do things to get done
 
@@ -22,6 +24,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=developer-ankitt&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
